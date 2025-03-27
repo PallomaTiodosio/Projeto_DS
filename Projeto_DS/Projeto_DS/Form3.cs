@@ -12,6 +12,10 @@ namespace Projeto_DS
 {
     public partial class frmVetorNotas : Form
     {
+        double[] vetorNotas = new double[30];
+        double soma = 0, x;
+        int i;
+
         public frmVetorNotas()
         {
             InitializeComponent();
@@ -24,8 +28,22 @@ namespace Projeto_DS
             menu.Show();
         }
 
+        private void btnInserir_Click(object sender, EventArgs e)
+        {
+            for (i = 0; i < 30; i++)
+            {
+                x = Convert.ToDouble(txtNota.Text);
+                vetorNotas[i] = x;
+                soma = soma + vetorNotas[i];
+                txtNota.Clear();
+                txtNota.Focus();
+                break;
+            }
+        }
+
         private void btnLimpar_Click(object sender, EventArgs e)
         {
+            soma = 0;
             txtMedia.Clear();
             txtNota.Clear();
             txtNota.Focus();
@@ -33,20 +51,7 @@ namespace Projeto_DS
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            int[] vetorNota = new int[30];
-            int i, soma = 0, x;
-            double media;
-
-            for (i = 0; i < 30; i++)
-            {
-                x = Convert.ToInt32(txtNota.Text);
-                vetorNota[i] = x;
-                soma = soma + vetorNota[i];
-                txtNota.Clear();
-               
-            }
-            media = soma / 30;
-            txtMedia.Text = media.ToString();
+            txtMedia.Text = (soma / 30).ToString();
         }
     }
 }

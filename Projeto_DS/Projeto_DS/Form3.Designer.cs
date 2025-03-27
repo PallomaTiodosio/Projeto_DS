@@ -37,13 +37,15 @@
             this.btnCalcular = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.btnVoltar = new System.Windows.Forms.Button();
+            this.btnInserir = new System.Windows.Forms.Button();
+            this.lblText3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblText1
             // 
             this.lblText1.AutoSize = true;
             this.lblText1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblText1.Location = new System.Drawing.Point(259, 54);
+            this.lblText1.Location = new System.Drawing.Point(259, 64);
             this.lblText1.Name = "lblText1";
             this.lblText1.Size = new System.Drawing.Size(274, 24);
             this.lblText1.TabIndex = 0;
@@ -53,7 +55,7 @@
             // 
             this.lblText2.AutoSize = true;
             this.lblText2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblText2.Location = new System.Drawing.Point(259, 91);
+            this.lblText2.Location = new System.Drawing.Point(259, 102);
             this.lblText2.Name = "lblText2";
             this.lblText2.Size = new System.Drawing.Size(274, 20);
             this.lblText2.TabIndex = 1;
@@ -63,7 +65,7 @@
             // 
             this.lblNota.AutoSize = true;
             this.lblNota.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNota.Location = new System.Drawing.Point(90, 199);
+            this.lblNota.Location = new System.Drawing.Point(90, 220);
             this.lblNota.Name = "lblNota";
             this.lblNota.Size = new System.Drawing.Size(136, 20);
             this.lblNota.TabIndex = 2;
@@ -72,7 +74,7 @@
             // txtNota
             // 
             this.txtNota.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNota.Location = new System.Drawing.Point(232, 199);
+            this.txtNota.Location = new System.Drawing.Point(232, 214);
             this.txtNota.Multiline = true;
             this.txtNota.Name = "txtNota";
             this.txtNota.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
@@ -83,7 +85,7 @@
             // 
             this.lblMedia.AutoSize = true;
             this.lblMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblMedia.Location = new System.Drawing.Point(418, 199);
+            this.lblMedia.Location = new System.Drawing.Point(418, 220);
             this.lblMedia.Name = "lblMedia";
             this.lblMedia.Size = new System.Drawing.Size(115, 20);
             this.lblMedia.TabIndex = 4;
@@ -93,7 +95,7 @@
             // 
             this.txtMedia.Enabled = false;
             this.txtMedia.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMedia.Location = new System.Drawing.Point(539, 199);
+            this.txtMedia.Location = new System.Drawing.Point(539, 214);
             this.txtMedia.Name = "txtMedia";
             this.txtMedia.Size = new System.Drawing.Size(117, 26);
             this.txtMedia.TabIndex = 5;
@@ -102,7 +104,7 @@
             // 
             this.btnCalcular.BackColor = System.Drawing.Color.YellowGreen;
             this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalcular.Location = new System.Drawing.Point(194, 352);
+            this.btnCalcular.Location = new System.Drawing.Point(273, 352);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(92, 36);
             this.btnCalcular.TabIndex = 6;
@@ -113,7 +115,7 @@
             // btnLimpar
             // 
             this.btnLimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLimpar.Location = new System.Drawing.Point(362, 352);
+            this.btnLimpar.Location = new System.Drawing.Point(441, 352);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(92, 36);
             this.btnLimpar.TabIndex = 7;
@@ -124,7 +126,7 @@
             // btnVoltar
             // 
             this.btnVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVoltar.Location = new System.Drawing.Point(527, 352);
+            this.btnVoltar.Location = new System.Drawing.Point(596, 352);
             this.btnVoltar.Name = "btnVoltar";
             this.btnVoltar.Size = new System.Drawing.Size(92, 36);
             this.btnVoltar.TabIndex = 8;
@@ -132,11 +134,35 @@
             this.btnVoltar.UseVisualStyleBackColor = true;
             this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
             // 
+            // btnInserir
+            // 
+            this.btnInserir.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.btnInserir.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnInserir.Location = new System.Drawing.Point(110, 352);
+            this.btnInserir.Name = "btnInserir";
+            this.btnInserir.Size = new System.Drawing.Size(92, 36);
+            this.btnInserir.TabIndex = 9;
+            this.btnInserir.Text = "Inserir";
+            this.btnInserir.UseVisualStyleBackColor = false;
+            this.btnInserir.Click += new System.EventHandler(this.btnInserir_Click);
+            // 
+            // lblText3
+            // 
+            this.lblText3.AutoSize = true;
+            this.lblText3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblText3.Location = new System.Drawing.Point(245, 122);
+            this.lblText3.Name = "lblText3";
+            this.lblText3.Size = new System.Drawing.Size(317, 16);
+            this.lblText3.TabIndex = 10;
+            this.lblText3.Text = "OBS: aperte o botão limpar após conseguir a média";
+            // 
             // frmVetorNotas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblText3);
+            this.Controls.Add(this.btnInserir);
             this.Controls.Add(this.btnVoltar);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnCalcular);
@@ -165,5 +191,7 @@
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Button btnLimpar;
         private System.Windows.Forms.Button btnVoltar;
+        private System.Windows.Forms.Button btnInserir;
+        private System.Windows.Forms.Label lblText3;
     }
 }
