@@ -1,0 +1,12 @@
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe.config
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.pdb
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.AssemblyReference.cache
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmMenu.resources
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmVetorSorteio.resources
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.Properties.Resources.resources
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.GenerateResource.cache
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.CoreCompileInputs.cache
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.exe
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.pdb
+C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmVetorNotas.resources
