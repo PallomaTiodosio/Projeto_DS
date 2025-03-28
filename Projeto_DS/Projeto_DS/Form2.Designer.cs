@@ -71,11 +71,11 @@
             // txtGerar
             // 
             this.txtGerar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtGerar.Location = new System.Drawing.Point(369, 182);
+            this.txtGerar.Location = new System.Drawing.Point(369, 186);
             this.txtGerar.Multiline = true;
             this.txtGerar.Name = "txtGerar";
             this.txtGerar.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtGerar.Size = new System.Drawing.Size(126, 35);
+            this.txtGerar.Size = new System.Drawing.Size(126, 25);
             this.txtGerar.TabIndex = 3;
             // 
             // btnVoltar

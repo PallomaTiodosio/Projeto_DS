@@ -10,3 +10,15 @@ C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.cs
 C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.exe
 C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.pdb
 C:\Ademir\Marina\BG\DS\Projeto2025\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmVetorNotas.resources
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe.config
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.pdb
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.AssemblyReference.cache
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmMenu.resources
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmVetorSorteio.resources
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.frmVetorNotas.resources
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.Properties.Resources.resources
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.GenerateResource.cache
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.CoreCompileInputs.cache
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.exe
+\\192.168.1.254\dados\2A-DS-PI\Palloma e Marina\DS\ProjetoDS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.pdb

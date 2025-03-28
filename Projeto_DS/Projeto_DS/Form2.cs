@@ -26,11 +26,7 @@ namespace Projeto_DS
             for (i = 0; i < 15; i++)
             {
                 vetorPares[i] = num.Next(1, 100);
-            }
-
-            for (i = 0; i < 15; i++)
-            {
-                if (vetorPares[i] % 2 == 0)
+                if (i % 2 == 0)
                 {
                     txtGerar.Text += vetorPares[i].ToString() + Environment.NewLine;
                 }
