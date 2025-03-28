@@ -1,3 +1,5 @@
+*Nome alunos: Marina Barbosa Nogali e Palloma Tiodosio de Sousa 2ºDS* 
+
 ![Passo1](Passo1.png)
 
 *Descrição Passo1: 'git init para inicializar o git, 'git config' para configurar o email e nome de usuário, e 'git status' para ver quais pastas serão adicionadas ao repsitório.*
